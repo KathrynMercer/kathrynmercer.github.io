@@ -10,11 +10,12 @@
 ## Projects
 
 ## Research
-Genetics - Characteristics of amylase copy number variants in modern domestic and village dogs.
-Genetics - Genetic and epigenetic causes of pigmentation and immunological deficiencies.
-Nutrition - Effect of fescue toxicosis on fetal muscle development.
-Reproductive Medicine - Relationship between enlarged bovine ovarian follicles and polycystic ovary syndrome.
-Developmental Biology - Analysis of chick (Gallus gallus) middle ear columella formation. 
+- Genetics
+  + Characteristics of amylase copy number variants in modern domestic and village dogs.
+  + Genetic and epigenetic causes of pigmentation and immunological deficiencies.
+- Nutrition - Effect of fescue toxicosis on fetal muscle development.
+- Reproductive Medicine - Relationship between enlarged bovine ovarian follicles and polycystic ovary syndrome.
+- Developmental Biology - Analysis of chick (Gallus gallus) middle ear columella formation. 
 
 ## Awards
 - Exemplary Oral Presentation - South Carolina Junior Academy of Science
