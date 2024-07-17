@@ -3,9 +3,9 @@
 #### Technical Skills: Python
 
 ### Education
-Doctor of Veterinary Medicine | Cornell University (2017)
-Animal & Veterinary Sciences, BS Magna Cum Laude | Clemson University (2013)
-Genetics, BS | Clemson University (2013)
+- Doctor of Veterinary Medicine | Cornell University (2017)
+- Animal & Veterinary Sciences, BS Magna Cum Laude | Clemson University (2013)
+- Genetics, BS | Clemson University (2013)
 
 ## Projects
 
