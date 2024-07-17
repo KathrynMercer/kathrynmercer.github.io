@@ -1,27 +1,11 @@
-# Data Scientist
+# Data Scientist with Medical Emphasis
+
+#### Technical Skills: Python
 
 ### Education
-Doctor of Veterinary Medicine - Cornell University
-Animal & Veterinary Sciences, BS Magna Cum Laude
-Genetics, BS
-
-### Work Experience
-Associate Veterinarian @ Ranzijn Tuin & Dier, Amsterdam, NL
-- Mentored junior colleagues through client communication and clinical decision-making
-- Developed and presented personalized training to junior colleagues
-Relief Veterinarian @ IndeVets, Charleston, SC
-- Facilitated a diverse spectrum of care tailored to individual practice protocols and client needs.
-Associate Veterinarian, Director of Staff Education and Medical Quality @ Animal Medical Clinic of Goose Creek, Goose Creek, SC
-- Coordinated development of machine learning software to review production data accuracy
-- Developed clinic standard operating procedures based on evidence-based guidelines
-- Prepared and presented continued education for staff development
-- Instructed fellow clinicians in standards of care
-
-Intern, Small Animal Medicine & Surgery @ BluePearl Veterinary Partners New York, New York, NY
-- Presentations: "Management of Septic Peritonitis," "Complications of enteral nutrition via NG tube"
-- Delivered a demonstration of a new technique to senior clinicians
-- Prepared and presented standardized protocols for tracheostomy management
-- Designed experiment to investigate patient mortality
+Doctor of Veterinary Medicine | Cornell University (2017)
+Animal & Veterinary Sciences, BS Magna Cum Laude | Clemson University (2013)
+Genetics, BS | Clemson University (2013)
 
 ## Projects
 
@@ -36,4 +20,22 @@ Developmental Biology - Analysis of chick (Gallus gallus) middle ear columella f
 Exemplary Oral Presentation - South Carolina Junior Academy of Science
 Exemplary Research Paper - South Carolina Junior Academy of Science
 
-## Projects
+## Work Experience, Veterinary
+**Associate Veterinarian @ Ranzijn Tuin & Dier, Amsterdam, NL
+- Mentored junior colleagues through client communication and clinical decision-making
+- Developed and presented personalized training to junior colleagues
+
+**Relief Veterinarian @ IndeVets
+- Facilitated a diverse spectrum of care tailored to individual practice protocols and client needs.
+
+**Associate Veterinarian, Director of Staff Education and Medical Quality @ Animal Medical Clinic of Goose Creek (
+- Coordinated development of machine learning software to review production data accuracy
+- Developed clinic standard operating procedures based on evidence-based guidelines
+- Prepared and presented continued education for staff development
+- Instructed fellow clinicians in standards of care
+
+**Intern, Small Animal Medicine & Surgery @ BluePearl Veterinary Partners New York (2017-18)
+- Presentations: "Management of Septic Peritonitis," "Complications of enteral nutrition via NG tube"
+- Delivered a demonstration of a new technique to senior clinicians
+- Prepared and presented standardized protocols for tracheostomy management
+- Designed experiment to investigate patient mortality
