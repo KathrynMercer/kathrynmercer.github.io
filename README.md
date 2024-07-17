@@ -17,8 +17,8 @@ Reproductive Medicine - Relationship between enlarged bovine ovarian follicles a
 Developmental Biology - Analysis of chick (Gallus gallus) middle ear columella formation. 
 
 ## Awards
-Exemplary Oral Presentation - South Carolina Junior Academy of Science
-Exemplary Research Paper - South Carolina Junior Academy of Science
+- Exemplary Oral Presentation - South Carolina Junior Academy of Science
+- Exemplary Research Paper - South Carolina Junior Academy of Science
 
 ## Work Experience, Veterinary
 **Associate Veterinarian @ Ranzijn Tuin & Dier, Amsterdam, NL
