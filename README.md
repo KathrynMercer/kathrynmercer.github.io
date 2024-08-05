@@ -1,6 +1,10 @@
 # Data Scientist with Medical Emphasis
 
-#### Technical Skills: Python
+#### Technical Skills: Python, TensorFlow2, Tableau, 
+- Data cleaning, engineering, & analysis (incl. Numpy, Pandas, Matplotlib, Scikit-learn)
+- Machine learning (with TensorFlow2)
+- Data visualization (with  Seaborn, Tableau)
+
 
 ### Education
 - Doctor of Veterinary Medicine | Cornell University (2017)
@@ -8,9 +12,15 @@
 - B.S., Genetics | Clemson University (2013)
 
 ## Projects
-### Austin Animal Center - Data Exploration 
-  - Exploration of data from an shelter animal to identify characteristics that contribute to adoption outcomes using **Python**.
-    + [GitHub Respository](https://github.com/KathrynMercer/Austin-Animal-Center-Data)
+### Austin Animal Center Intake & Outcomes 
+##### Data Cleaning & Engineering
+  - Preparation of data from an animal shelter for further analysis with documented rationale
+    + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning.ipynb)
+  - Includes module for reproducibility
+    + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb)
+##### Data Exploration 
+  - Exploration of data to identify characteristics that contribute to cat adoption outcomes using **Python**.
+    + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20Influencers.ipynb)
 
 ## Research
 ##### Genetics
