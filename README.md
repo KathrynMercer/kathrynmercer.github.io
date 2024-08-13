@@ -19,7 +19,7 @@
 ##### Machine/Deep Learning
   - Transaction analyzer identifying incorrectly allocated production in a veterinary clinic - private data
     + Identified $40,000 incorrectly allocated profits over the first year of use.
-  - Computer vision classifying cat photos to their technical color and pattern assignments using **[FastAI, PyTorch](https://github.com/KathrynMercer/Cat-Coat-Classifier)**.
+  - Computer vision classifying cat photos to their technical color and pattern assignments using **[FastAI, PyTorch](https://github.com/KathrynMercer/Cat-Coat-Classifier)**. [Test it out on Hugging Face!](https://huggingface.co/spaces/KathrynMercer/CatPatternClassifier)
   - Computer vision classifying handwritten numbers using **[TensorFlow2](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-TensorFlow2.ipynb), [PyTorch](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-PyTorch.ipynb), FastAI**.
     
 ## Research
