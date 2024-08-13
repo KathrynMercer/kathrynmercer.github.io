@@ -11,13 +11,15 @@
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning.ipynb)
   - Includes module for reproducibility
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb)
+
 ##### Exploratory Data Analysis
   - Exploration of data to identify characteristics that contribute to cat adoption outcomes using **Python, Numpy, MatPlotLib, SeaBorn**.
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20Influencers.ipynb)
+ 
  ##### Machine/Deep Learning
   - Transaction analyzer identifying incorrectly allocated production in a veterinary clinic - private data
     + Identified $40,000 incorrectly allocated profits over the first year of use.
-  - Computer vision classifying cat photos to their technical color and pattern assignments using **FastAI, PyTorch**.
+  - Computer vision classifying cat photos to their technical color and pattern assignments using **[FastAI, PyTorch](https://github.com/KathrynMercer/Cat-Coat-Classifier)**.
   - Computer vision classifying handwritten numbers using **[TensorFlow2](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-TensorFlow2.ipynb), [PyTorch](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-PyTorch.ipynb), FastAI**.
     
 ## Research
