@@ -16,7 +16,7 @@
   - Exploration of data to identify characteristics that contribute to cat adoption outcomes using **Python, Numpy, MatPlotLib, SeaBorn**.
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20Influencers.ipynb)
  
- ##### Machine/Deep Learning
+##### Machine/Deep Learning
   - Transaction analyzer identifying incorrectly allocated production in a veterinary clinic - private data
     + Identified $40,000 incorrectly allocated profits over the first year of use.
   - Computer vision classifying cat photos to their technical color and pattern assignments using **[FastAI, PyTorch](https://github.com/KathrynMercer/Cat-Coat-Classifier)**.
