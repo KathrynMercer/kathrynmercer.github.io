@@ -9,8 +9,7 @@
 ##### Data Engineering/Cleaning
   - Preparation of data from an animal shelter for further analysis with documented rationale using **Python, Numpy**.
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning.ipynb)
-  - Includes module for reproducibility
-    + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb)
+    + Includes [module](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb) for reproducibility
 
 ##### Exploratory Data Analysis
   - Exploration of data to identify characteristics that contribute to cat adoption outcomes using **Python, Numpy, MatPlotLib, SeaBorn**.
