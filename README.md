@@ -6,22 +6,37 @@
 - B.S., Genetics | Clemson University (2013)
 
 ## Projects
-##### Data Engineering/Cleaning
+#### Data Engineering/Cleaning
   - Preparation of data from an animal shelter for further analysis with documented rationale using **Python, Numpy**.
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning.ipynb)
-    + Includes [module](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb) for reproducibility
+    + Includes [script module](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Data%20Cleaning%20Module.ipynb) for ongoing use
 
-##### Exploratory Data Analysis
+#### Exploratory Data Analysis
   - Exploration of data to identify characteristics that contribute to cat adoption outcomes using **Python, Numpy, MatPlotLib, SeaBorn**.
+    + [Findings Walkthrough](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/README.md)
     + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20Influencers.ipynb)
+  - Exploration of data to identify most frequent causes of eviction in the San Francisco region using **Python, Numpy, MatPlotLib, SeaBorn**.
+    + [Findings Walkthrough](https://github.com/datakind/datakit-housing-fall-2024/discussions/42)
+    + [Jupyter Notebook](https://github.com/datakind/datakit-housing-fall-2024/blob/main/challenge-2/CA/San%20Fran%20Eviction%20EDA.ipynb)
  
-##### Machine/Deep Learning
+#### Machine/Deep Learning
   - Transaction analyzer identifying incorrectly allocated production in a veterinary clinic - private data
     + Identified $40,000 incorrectly allocated profits over the first year of use.
-  - Model predicting whether or not a cat will get adopted with 91% accuracy using **[FastAI, PyTorch](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20ML.ipynb)**.
-  - Computer vision classifying cat photos to their technical color and pattern assignments using **[FastAI, PyTorch](https://github.com/KathrynMercer/Cat-Coat-Classifier)**.
+  - Model predicting whether or not a cat will get adopted with 91% accuracy using **FastAI, PyTorch.**
+    + [Jupyter Notebook](https://github.com/KathrynMercer/Austin-Animal-Center-Data/blob/main/Shelter%20Cat%20Outcome%20ML.ipynb)
+  - Computer vision classifying cat photos to their technical color and pattern assignments using **FastAI, PyTorch.**
+    + [Jupyter Notebook](https://github.com/KathrynMercer/Cat-Coat-Classifier)
     + [Test it out on Hugging Face!](https://huggingface.co/spaces/KathrynMercer/CatPatternClassifier)
   - Computer vision classifying handwritten numbers using **[TensorFlow2](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-TensorFlow2.ipynb), [PyTorch](https://github.com/KathrynMercer/MNIST/blob/main/MNIST-PyTorch.ipynb), FastAI**.
+
+#### Data Visualization
+  - Dashboard to monitor KPIs and answer business-specific, customer and product-analytics questions using **PowerBI.**
+    + [PDF Example](https://github.com/KathrynMercer/kathrynmercer.github.io/blob/main/PowerBI%20Advernture%20Works%20Dashboard.pdf)
+  - Choropleth mappings of rent-burden over census tracts in the state of California using **Python, GeoPandas, Folium**
+    + [Findings Walkthrough](https://github.com/datakind/datakit-housing-fall-2024/discussions/23)
+    + [Image - LA Region](https://github.com/datakind/datakit-housing-fall-2024/blob/main/challenge-2/CA/LA%20Cost%20Burdened%20Households.png)
+    + [Image - CA State](https://github.com/datakind/datakit-housing-fall-2024/blob/main/challenge-2/CA/CA%20Cost%20Burdened%20Households.png)
+    + [Jupyter Notebook](https://github.com/datakind/datakit-housing-fall-2024/blob/main/challenge-2/CA/GeoData%20CostBurden%20CA.ipynb)
     
 ## Research
 ##### Nutrition 
